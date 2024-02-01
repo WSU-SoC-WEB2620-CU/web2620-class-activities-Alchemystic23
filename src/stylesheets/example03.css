@@ -13,7 +13,7 @@ body{
     padding: .5rem;
     border-radius: 1rem;
     flex-flow: column nowrap;
-
+    align-items: normal;
 }
 
 img{
